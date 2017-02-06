@@ -1,7 +1,6 @@
 td {
 	width: 100px;
 	height: 100px;
-	background: pink;
 }
 
 .vertical {
@@ -12,3 +11,8 @@ td {
 .center {
 	border: 1px solid black;
 }
+
+.horizontal {
+	border-bottom: 1px solid black;
+}
+
